@@ -1,3 +1,3 @@
 ## PROJECTS
 
-[PROJECT 1](./Images/project1.PNG)
+[PROJECT 1](./images/project1.PNG)
